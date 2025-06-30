@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello, I'm Nikita
+# Hello, I'm Nikita🤝
 
 **BEGINNER C++ DEVELOPER**
 

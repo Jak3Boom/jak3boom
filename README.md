@@ -1,5 +1,6 @@
+<div align="center">
 # Welcome! 👋
----
+
 BEGINNER C++ DEVELOPER
 
 <table>
@@ -12,3 +13,5 @@ BEGINNER C++ DEVELOPER
     </td>
   </tr>
 </table>
+
+</div>

@@ -1,7 +1,8 @@
 <div align="center">
+  
 # Welcome! 👋
 
-BEGINNER C++ DEVELOPER
+**BEGINNER C++ DEVELOPER**
 
 <table>
   <tr>

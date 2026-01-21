@@ -2,7 +2,7 @@
   
 # Hello, I'm Nikita🤝
 
-**BEGINNER C++ DEVELOPER**
+**BEGINNER GAME DEVELOPER**
 
 <br/>
 
